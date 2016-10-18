@@ -29,7 +29,7 @@ public class Bag<T> implements BagInterface<T> {
 		    numOfItems++;
 		}
 }
-	
+	//removes an item
 	public T remove()
 	{
 		return item;
