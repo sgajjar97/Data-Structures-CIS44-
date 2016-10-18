@@ -15,3 +15,8 @@ hs_err_pid*
 .metadata/
 RemoteSystemsTempFiles/
 Lab2/.project
+.recommenders/
+Lab5/.classpath
+Lab5/.gitignore
+Lab5/.project
+Lab5/.settings/
